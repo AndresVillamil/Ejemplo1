@@ -1,1 +1,1 @@
-Mi primer ejemplo de rpositorio creado a través de gitbash
+Mi primer ejemplo de repositorio creado a través de gitbash
